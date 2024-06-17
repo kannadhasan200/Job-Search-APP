@@ -1,0 +1,72 @@
+.jobs-container {
+  background-color: #000000;
+  height: 100%;
+}
+.profile {
+  width: 480px;
+  padding-left: 12%;
+  color: #fff;
+  margin-right: 20px;
+}
+.ul {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.tag-name {
+  color: #ffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.checkbox-input {
+  height: 15px;
+  width: 15px;
+  margin-right: 12px;
+  margin-top: 12px;
+}
+.jobs-filter-profile-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+.job {
+  padding-right: 12%;
+}
+.search {
+  background-color: transparent;
+
+  color: #fff;
+  border: none;
+}
+.search-icon {
+  padding-top: 5px;
+}
+.job-ul-container {
+  width: 800px;
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.no-jobs {
+  color: #ffff;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loader-container {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,27 @@
+.job-list {
+  background-color: #2c364c;
+  width: 100%;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 12px;
+  color: #fff;
+}
+.location {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 20px;
+}
+.pack {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.rating {
+  color: #fbbf24;
+}
+.company-logo {
+  height: 80px;
+  width: 80px;
+  margin-right: 12px;
+}
